@@ -36,9 +36,9 @@
 	
 	8. HowTo Page
 	
-	9. Advertisement of Opened Contracts
+	9. Advertisement of Opened Contracts Page
 	
-	10. Advertisement of Available Contractors
+	10. Advertisement of Available Contractors Page
 		
 	11. Library of the Contract Document templates
 				
