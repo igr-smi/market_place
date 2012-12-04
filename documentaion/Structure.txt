@@ -1,0 +1,44 @@
+				market.org structure.
+
+	1. Profile Page
+		- reviews from previous deals(filled by other members)
+		- experince/occupation/education/contacts(integration with linkedin.com)
+		- photo
+		
+	2. My Messages Page
+	
+	3. My Contracts Page (объ€влени€-контракты)
+		a. Open (published) Contracts
+			- Contract document
+			- Description of the required service + photos/schemes
+			- Statistics
+			- Offers			
+		b. Closed (committed) Contracts
+			- Reviews;
+			- Description of the required service + photos/schemes;
+			- Final Contract document
+			- Contractor/Customer reference			
+			
+	4. Contract Creation Forms
+		- templates of contracts(????)
+		- generation of the Contract 
+		- decription of the required service
+		
+	5. My Offers (мои предложени€)
+	
+	6. Offers Creation Form
+		- must show difference to original customer's contact document
+	
+	7. index Page
+		- show how much opened/closed contracts, number of market.org's participants
+		- location choice
+		- navigation to different types of contracts
+	
+	8. HowTo Page
+	
+	9. Advertisement of Opened Contracts
+	
+	10. Advertisement of Available Contractors
+		
+	11. Library of the Contract Document templates
+				
