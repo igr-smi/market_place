@@ -11,7 +11,7 @@
 		a. Open (published) Contracts
 			- Contract document
 			- Description of the required service + photos/schemes
-			- Statistics
+			- Statistics  - helps to make decision(?????????????)
 			- Offers			
 		b. Closed (committed) Contracts
 			- Reviews;
